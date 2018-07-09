@@ -1,0 +1,23 @@
+{
+  "name": "ball",
+  "version": "1.0.0",
+  "description": "",
+  "main": "8ball.js",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NayutaY/8ball.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NayutaY/8ball/issues"
+  },
+  "homepage": "https://github.com/NayutaY/8ball#readme"
+}
