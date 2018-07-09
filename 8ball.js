@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 
-const TOKEN = "NDY1NzYzNDI2NTY0ODMzMjgw.DiSPiA.4c_IfFYH5TE8KHzOqqw7dQczxsI"
+const TOKEN = ""
 const PREFIX = "!"
 
 var fortunes = [ 
