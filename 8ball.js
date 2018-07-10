@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 
-const TOKEN = ""
+const TOKEN = "process.env.BOT_TOKEN"
 const PREFIX = "!"
 
 var fortunes = [ 
