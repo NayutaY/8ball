@@ -1,17 +1,26 @@
 {
+<<<<<<< HEAD
   "name": "ball",
+=======
+  "name": "8ball",
+>>>>>>> 58409f3232b0cc4006004c8f0d8faac637c52321
   "version": "1.0.0",
   "description": "",
   "main": "8ball.js",
   "dependencies": {
+<<<<<<< HEAD
     "discord.js": "^11.3.2",
     "opusscript": "0.0.6",
     "ytdl-core": "^0.21.1"
+=======
+    "discord.js": "^11.3.2"
+>>>>>>> 58409f3232b0cc4006004c8f0d8faac637c52321
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+<<<<<<< HEAD
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NayutaY/8ball.git"
@@ -22,4 +31,8 @@
     "url": "https://github.com/NayutaY/8ball/issues"
   },
   "homepage": "https://github.com/NayutaY/8ball#readme"
+=======
+  "author": "",
+  "license": "ISC"
+>>>>>>> 58409f3232b0cc4006004c8f0d8faac637c52321
 }
